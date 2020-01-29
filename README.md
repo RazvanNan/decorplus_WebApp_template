@@ -1,6 +1,6 @@
 # decorplus.id
 This is the example and supporting code for [this Medium article](https://medium.com/@defrian.yarfi/html-and-scss-development-in-visual-studio-code-3650b09a5ce3).
-Initial Github from author in [here][https://github.com/dyarfi/decorplus.id].
+Initial Github from author in [here](https://github.com/dyarfi/decorplus.id).
 
 Tools :
 
